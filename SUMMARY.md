@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Addons](addons.md)
-   * Package YML
+   * [Package YML](package_yml.md)
        * [Requiries](requiries.md)
        * [Page & Pages](page_pages.md)
        * [Einstellungen / Parameter](einstellungen_parameter.md)
