@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * Addons
    * Package YML
-       * Requiries
+       * [Requiries](requiries.md)
 
