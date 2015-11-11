@@ -7,4 +7,5 @@
        * [Page & Pages](page_pages.md)
        * [Einstellungen / Parameter](einstellungen_parameter.md)
    * [PJAX](pjax.md)
+   * Plugins
 
