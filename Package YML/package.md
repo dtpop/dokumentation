@@ -1,1 +1,1 @@
-# Redaxo 5
+# Package YML!
