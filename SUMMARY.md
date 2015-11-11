@@ -8,5 +8,5 @@
        * [Einstellungen / Parameter](einstellungen_parameter.md)
    * [PJAX](pjax.md)
    * [Plugins](plugins.md)
-   * Extension Points
+   * [Extension Points](extension_points.md)
 
