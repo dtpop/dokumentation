@@ -9,5 +9,5 @@
    * [PJAX](pjax.md)
    * [Plugins](plugins.md)
    * [Extension Points](extension_points.md)
-   * Assets
+   * [Assets](assets.md)
 
