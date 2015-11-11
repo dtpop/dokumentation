@@ -4,4 +4,5 @@
 * Addons
    * Package YML
        * [Requiries](requiries.md)
+       * Page & Pages
 
