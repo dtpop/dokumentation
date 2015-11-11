@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Addons
+* [Addons](addons.md)
    * Package YML
        * [Requiries](requiries.md)
        * [Page & Pages](page_pages.md)
