@@ -27,14 +27,54 @@ Folgende Struktur sollte ein Addon besitzen:
 * uninstall.php
 * update.php
 
-###Assets
+###Dateien
+
+####package.yml
+
+[Siehe Package YML](addons/package_yml/README.md)
+
+###boot.php
+
+Boot.php ist ein Ersatz für die Datei config.inc.php aus Redaxo4. Sie steuert den gesamten Aufruf des Addons und kann dazu verwendet werden Assets einzubinden und Konfigurationen zu überschreiben. 
+
+> **Achtung:** Alle Konfigurationen sollten soweit möglich in der Datei package.yml gespeichert werden!
+
+###help.php
+
+Der Inhalt dieser Datei wird ausgegeben, wenn im Addon-Tab von Redaxo die Hilfe eines Addons oder Plugins aufgerufen wird. Hier kann der Benutzer vorab erfahren, welche Funktionen diese Addon zur Verfügung stellt und wie man es benutzt. (Wird leider zu oft vernachlässigt)
+
+###install.php
+
+Diese Datei wird bei der Installation aufgerufen. Es können SQL-Befehle ausgeführt werden und Konfigurationen zurückgesetzt bzw. definiert werden, die bei der Installation schon benötigt werden.
+
+###uninstall.php
+
+Diese Datei wird bei der Deinstallation aufgerufen. Es können SQL-Befehle ausgeführt werden und Konfigurationen zurückgesetzt werden, die nach dem Deinstallieren des Addons nicht weiter benötigt werden.
+
+###update.php
+
+@todo
+
+###Verzeichnisse
+
+####Assets
 
 Assets ist der neue Files-Ordner aus Redaxo4. Alle Dateien aus diesem Verzeichnis, speichert Redaxo in `ROOT/assets/addons/ADDON_NAME/`. Von dort aus können sie bequem geladen werden. [Siehe Assets](addons/assets/README.md).
 
-###Fragments
+####Fragments
 
 Fragmente sind PHP-Dateien die an verschiedenen Stellen im Code wiederverwendet werden können. Bei einfachen Addons reicht es ein Fragment einfach in das `fragments`-Verzeichnis zu speichern, es sollten aber logisch benannte Unterverzeichnisse erstellt werden. [Siehe Fragmente](addons/fragments/README.md).
 
-###Lang
+####Lang
 
 In lang werden die Sprachdateien mit der Endung .lang gespeichert. Mögliche Namen könnten sein `de_de.lang` oder auch `en_en.lang`. [Siehe Sprachdateien](addons/languages/README.md).
+
+####Lib
+
+Lib ist der ehemalige `classes`-Ordner. Hier werden alle Klassen gespeichert die später von Redaxo automatisch geladen werden sollen. In Redaxo4 war es noch notwendig, PHP-Dateien manuell hinzuzufügen, Redaxo5 verwendet hierfür einen Autoloader.
+
+####Pages
+
+####Plugins
+
+[Siehe Plugins](addons/plugins/README.md)
