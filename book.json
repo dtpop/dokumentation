@@ -1,7 +1,7 @@
 {
     "title": "Redaxo 5 Dokumentation",
     "plugins": [
-        "richquotes",
+        "-richquotes",
         "anchors",
         "-disqus",
         "collapsible-menu",
