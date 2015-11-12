@@ -5,6 +5,7 @@
    * [Download](installation/download.md)
    * [Installation](installation/installation.md)
    * [Login](installation/login.md)
+   * [Passwort vergessen](installation/reset_password.md)
 * [Erste Schritte](backend/README.md)
 * [Addons](addons/README.md)
    * [Package YML](addons/package_yml/README.md)
