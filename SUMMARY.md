@@ -4,7 +4,7 @@
 * [Installation](installation/README.md)
    * [Download](installation/download.md)
    * [Installation](installation/installation.md)
-   * Addon
+   * Login
 * [Erste Schritte](backend/README.md)
 * [Addons](addons/README.md)
    * [Package YML](addons/package_yml/README.md)
