@@ -9,3 +9,28 @@ In den folgenden Kapiteln, erfahren Sie wie die Struktur eines Addons aussieht u
 ## API
 
 API-Dokumentation finden sie hier: http://www.redaxo.org/docs/master/
+
+## Struktur
+
+Folgende Struktur sollte ein Addon besitzen:
+
+* /assets/
+* /fragments/
+* /lang/
+* /lib/
+* /pages/
+* /plugins/
+* package.yml
+* boot.php
+* help.php
+* install.php
+* uninstall.php
+* update.php
+
+###Assets
+
+Assets ist der neue Files-Ordner aus Redaxo4. Alle Dateien aus diesem Verzeichnis, speichert Redaxo in `ROOT/assets/addons/ADDON_NAME/`. Von dort aus können sie bequem geladen werden. [Siehe Assets](addons/assets/README.md).
+
+###Fragments
+
+Fragmente sind PHP-Dateien die an verschiedenen Stellen im Code wiederverwendet werden können. Bei einfachen Addons reicht es ein Fragment einfach in das `fragments`-Verzeichnis zu speichern, es sollten aber logisch benannte Unterverzeichnisse erstellt werden.
