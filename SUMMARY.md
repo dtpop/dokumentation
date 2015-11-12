@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsverzeichnis
 
 * [Einleitung](README.md)
 * [Installation](installation/README.md)
@@ -11,7 +11,7 @@
        * [Einstellungen / Parameter](addons/package_yml/einstellungen_parameter.md)
    * [PJAX](addons/pjax/README.md)
    * [Plugins](addons/plugins/README.md)
-   * [Extension Points](addons/extension_points/README.md)
+   * [Extension Points](addons/extension_points/0.README.md)
        * [BE_STYLE_SCSS_FILES](addons/extension_points/BE_STYLE_SCSS_FILES.md)
        * [BE_STYLE_PAGE_CONTENT](addons/extension_points/BE_STYLE_PAGE_CONTENT.md)
        * [A1_BEFORE_DB_IMPORT](addons/extension_points/A1_BEFORE_DB_IMPORT.md)
