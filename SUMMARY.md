@@ -10,6 +10,8 @@
        * [Page & Pages](addons/package_yml/page_pages.md)
        * [Einstellungen / Parameter](addons/package_yml/einstellungen_parameter.md)
    * [PJAX](addons/pjax/README.md)
+   * [Sprachen](addons/languages/README.md)
+   * [Seiten](addons/pages/README.md)
    * [Plugins](addons/plugins/README.md)
    * [Extension Points](addons/extension_points/0.README.md)
        * [BE_STYLE_SCSS_FILES](addons/extension_points/BE_STYLE_SCSS_FILES.md)
