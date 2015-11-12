@@ -46,7 +46,7 @@ Definieren Sie einen Namen und ein sicheres Passwort für Ihre neue Installation
 
 Die Installation ist erfolgreich. Bitte beachten Sie die Hinweise auf der Seite oder melden Sie sich direkt über den Button unter der Seite an. Alternativ können sie auch /redaxo/ hinter Ihre URL schreiben, um in das Backend zu gelangen.
 
-![Backendbenutzer definieren](../assets/installation_steps/install_finish.png)
+![Heureka! Redaxo wurde erfolgreich installiert](../assets/installation_steps/install_finish.png)
 
 
 
