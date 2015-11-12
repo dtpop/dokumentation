@@ -5,7 +5,8 @@
         "anchors",
         "-disqus",
         "collapsible-menu",
-        "image-captions"
+        "image-captions",
+        "highlight"
     ],
     "links": {
         "sidebar": {
