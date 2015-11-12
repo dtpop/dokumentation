@@ -1,8 +1,9 @@
-# Inhaltsverzeichnis
+# Summary
 
 * [Einleitung](README.md)
 * [Installation](installation/README.md)
    * [Download](installation/01.download/README.md)
+   * Installation
 * [Erste Schritte](backend/README.md)
 * [Addons](addons/README.md)
    * [Package YML](addons/package_yml/README.md)
@@ -35,11 +36,9 @@
        * [PAGE_MEDIAPOOL_HEADER](addons/extension_points/PAGE_MEDIAPOOL_HEADER.md)
        * [MEDIA_LIST_TOOLBAR](addons/extension_points/MEDIA_LIST_TOOLBAR.md)
        * [MEDIA_UPDATED](addons/extension_points/MEDIA_UPDATED.md)
-       * [MEDIA_UPDATED](addons/extension_points/MEDIA_UPDATED.md)
        * [MEDIA_FORM_EDIT](addons/extension_points/MEDIA_FORM_EDIT.md)
        * [MEDIA_LIST_QUERY](addons/extension_points/MEDIA_LIST_QUERY.md)
        * [MEDIA_LIST_FUNCTIONS](addons/extension_points/MEDIA_LIST_FUNCTIONS.md)
-       * [MEDIA_ADDED](addons/extension_points/MEDIA_ADDED.md)
        * [ART_META_UPDATED](addons/extension_points/ART_META_UPDATED.md)
        * [METAINFO_TYPE_FIELDS](addons/extension_points/METAINFO_TYPE_FIELDS.md)
        * [EXTEND_SLICE_FORMS](addons/extension_points/EXTEND_SLICE_FORMS.md)
@@ -66,7 +65,6 @@
        * [PAGE_STRUCTURE_HEADER](addons/extension_points/PAGE_STRUCTURE_HEADER.md)
        * [CAT_FORM_BUTTONS](addons/extension_points/CAT_FORM_BUTTONS.md)
        * [CAT_FORM_ADD](addons/extension_points/CAT_FORM_ADD.md)
-       * [CAT_FORM_BUTTONS](addons/extension_points/CAT_FORM_BUTTONS.md)
        * [CAT_FORM_EDIT](addons/extension_points/CAT_FORM_EDIT.md)
        * [ART_CONTENT](addons/extension_points/ART_CONTENT.md)
        * [ART_INIT](addons/extension_points/ART_INIT.md)
@@ -109,7 +107,6 @@
        * [CACHE_DELETED](addons/extension_points/CACHE_DELETED.md)
        * [PAGE_SIDEBAR](addons/extension_points/PAGE_SIDEBAR.md)
        * [PAGE_BODY_ATTR](addons/extension_points/PAGE_BODY_ATTR.md)
-       * [PAGE_HEADER](addons/extension_points/PAGE_HEADER.md)
        * [PAGE_HEADER](addons/extension_points/PAGE_HEADER.md)
        * [CLANG_ADDED](addons/extension_points/CLANG_ADDED.md)
        * [CLANG_UPDATED](addons/extension_points/CLANG_UPDATED.md)
