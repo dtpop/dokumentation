@@ -11,4 +11,5 @@
    * [Extension Points](extension_points.md)
    * [Assets](assets.md)
    * [Fragments / Subfragments](fragments_subfragments.md)
+* Installation
 
