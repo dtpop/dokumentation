@@ -6,10 +6,14 @@ Nachdem Sie Redaxo auf Ihren lauffähigen Server geladen haben, rufen Sie Redaxo
 
 Die Sprache definiert lediglich die Sprache für die Installation, bitte wählen Sie ihre Sprache aus.
 
-![Sprache wählen](/assets/installation_steps/install_language.png)
+![Sprache wählen](../assets/installation_steps/install_language.png)
 
 ##Schritt 2 Lizenz wählen
 
 Redaxo ist ein Open Source Projekt und kostenfrei. Allerdings gibt es Lizenzbedingungen die akzeptiert werden müssen.
 
-![Lizenz](assets/installation_steps/install_licence_1.png)
+![Lizenz Teil 1](../assets/installation_steps/install_licence_1.png)
+
+###Lizenz Teil 2
+
+![Lizenz Teil 2](../assets/installation_steps/install_licence_2.png)
