@@ -4,12 +4,13 @@
         "richquotes",
         "anchors",
         "disqus",
-        "collapsible-menu",
+        "-collapsible-menu",
         "image-captions"
     ],
     "links": {
-      "sidebar": {
-        "Redaxo": "https://redaxo.org"
-      }
-    }
+        "sidebar": {
+            "Redaxo": "https://redaxo.org"
+        }
+    },
+    "pluginsConfig": {}
 }
