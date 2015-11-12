@@ -1,9 +1,9 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Installation](installation/installation.md)
-* [Backend](backend/backend.md)
-* [Addons](addons/addons.md)
+* [Installation](installation/README.md)
+* [Backend](backend/README.md)
+* [Addons](addons/README.md)
    * [Package YML](addons/package_yml/README.md)
        * [Requiries](addons/package_yml/requiries.md)
        * [Page & Pages](addons/package_yml/page_pages.md)
