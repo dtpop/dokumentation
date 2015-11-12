@@ -1,6 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
+* Installation
 * [Addons](addons.md)
    * [Package YML](package_yml.md)
        * [Requiries](requiries.md)
@@ -11,5 +12,4 @@
    * [Extension Points](extension_points.md)
    * [Assets](assets.md)
    * [Fragments / Subfragments](fragments_subfragments.md)
-* Installation
 
