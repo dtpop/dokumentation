@@ -6,7 +6,7 @@ Nachdem Sie Redaxo auf Ihren lauffähigen Server geladen haben, rufen Sie Redaxo
 
 Die Sprache definiert lediglich die Sprache für die Installation, bitte wählen Sie ihre Sprache aus.
 
-![Sprache wählen](assets/installation_steps/install_language.png)
+![Sprache wählen](/assets/installation_steps/install_language.png)
 
 ##Schritt 2 Lizenz wählen
 
