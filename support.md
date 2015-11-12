@@ -8,5 +8,7 @@ Redaxo ist gut verbreitet im deutschen Sprachraum. Haben Sie Fragen zum System, 
 
 ##Redaxo.org
 
+##Hilfe zu einem Addon
+
 ##Agenturen finden
 
