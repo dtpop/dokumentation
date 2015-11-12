@@ -128,5 +128,5 @@
        * [PACKAGES_INCLUDED](addons/extension_points/PACKAGES_INCLUDED.md)
    * [Assets](addons/assets/README.md)
    * [Fragments / Subfragments](addons/fragments/README.md)
-* [Hilfe & Support](support.md)
+* [Hilfe, Support und FAQ](support.md)
 
