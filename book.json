@@ -1,0 +1,16 @@
+{
+    "title": "Redaxo 5 Dokumentation",
+    "plugins": [
+        "richquotes",
+        "anchors",
+        "-disqus",
+        "collapsible-menu",
+        "image-captions"
+    ],
+    "links": {
+        "sidebar": {
+            "Redaxo": "https://redaxo.org"
+        }
+    },
+    "pluginsConfig": {}
+}
