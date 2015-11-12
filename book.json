@@ -7,8 +7,7 @@
         "collapsible-menu",
         "image-captions",
         "highlight",
-        "scrollablecode",
-        "highlightjs"
+        "scrollablecode"
     ],
     "links": {
         "sidebar": {
