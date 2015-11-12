@@ -6,7 +6,7 @@ Die Datei package.yml bildet die Basis eines jeden Addons. Tatsächlich braucht 
 
 ##Grundsätzlicher Aufbau
 
-<code yml>
+<code>
 package: AddonName
 version: 'x.x.x'
 author: Max Mustermann
