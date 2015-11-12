@@ -7,3 +7,7 @@
 [![Build Status](https://secure.travis-ci.org/redaxo/redaxo.png?branch=master)](http://travis-ci.org/redaxo/redaxo)
 
 #Einleitung für Redaxo 5
+
+##Inhaltsverzeichnis
+
+{% include "SUMMARY.md" %}
