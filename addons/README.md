@@ -10,6 +10,10 @@ In den folgenden Kapiteln, erfahren Sie wie die Struktur eines Addons aussieht u
 
 API-Dokumentation finden sie hier: http://www.redaxo.org/docs/master/
 
+##Änderungen von Redaxo4 zu Redaxo5
+
+In Redaxo5 werden die benötigten Klassen automatisch geladen und müssen nicht mehr mit `<?php ìnclude "datei.inc.php";?>` eingebunden werden. Außer dem, fällt in allen Dateien der `.inc`-Zusatz weg. Der Ordner `files`wurde in `assets` und `classes` in `lib` umbenannt.
+
 ## Struktur
 
 Folgende Struktur sollte ein Addon besitzen:
@@ -78,3 +82,13 @@ Lib ist der ehemalige `classes`-Ordner. Hier werden alle Klassen gespeichert die
 ####Plugins
 
 [Siehe Plugins](addons/plugins/README.md)
+
+###Sonstige Verzeichnisse
+
+Es ist natürlich erlaubt weiterhin eigene Verzeichnisse hinzuzufügen. In dem Addon `be_styles` wurde das Verzeichniss `sass` hinzugefügt. Für externe Tools wie Bootstrap, sollte das Verzeichnis `vendor`verwendet werden.
+
+####Vendoren
+
+Laden Sie den Vendor herunter. In unserem Beispiel verwenden wird [LessPHP von Github](https://github.com/oyejorge/less.php). Erstellen Sie im `vendor`-Verzeichnis Ihres Addons das Verzeichnis `lessphp` und verschieben den entpackten Inhalt aus dem LessPHP-File von Github.
+
+Redaxo wird den neuen Vendor nun automatisch laden. Der Less-Parser kann nun mit `<?php new Less_Parser( /* settings */ );?>` verwendet werden.
