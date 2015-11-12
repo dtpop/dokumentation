@@ -1,4 +1,4 @@
-# Hilfe & Support
+# Hilfe, Support und FAQ
 
 Redaxo ist gut verbreitet im deutschen Sprachraum. Haben Sie Fragen zum System, einem Addon oder zur Handhabung, können Sie an verschiedenen Stellen Hilfe anforden.
 
@@ -12,3 +12,4 @@ Redaxo ist gut verbreitet im deutschen Sprachraum. Haben Sie Fragen zum System, 
 
 ##Agenturen finden
 
+##F.A.Q
