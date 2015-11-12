@@ -4,7 +4,7 @@
         "richquotes",
         "anchors",
         "disqus",
-        "-collapsible-menu",
+        "collapsible-menu",
         "image-captions"
     ],
     "links": {
