@@ -2,6 +2,7 @@
 
 * [Einleitung](README.md)
 * [Installation](installation/README.md)
+   * [Download](installation/download/README.md)
 * [Backend](backend/README.md)
 * [Addons](addons/README.md)
    * [Package YML](addons/package_yml/README.md)
