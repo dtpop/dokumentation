@@ -6,7 +6,8 @@
         "-disqus",
         "collapsible-menu",
         "image-captions",
-        "highlight"
+        "highlight",
+        "scrollablecode"
     ],
     "links": {
         "sidebar": {
