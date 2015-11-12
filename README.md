@@ -1,4 +1,4 @@
-#REDAXO CMS
+#REDAXO 5
 
 *Einfach, flexibel, sinnvoll!*
 
