@@ -6,9 +6,9 @@ Die Datei package.yml bildet die Basis eines jeden Addons. Tatsächlich braucht 
 
 ##Grundsätzlicher Aufbau
 
-<code>
+```
 package: AddonName
 version: 'x.x.x'
 author: Max Mustermann
 supportpage: www.redaxo.org/de/forum/
-</code>
+```
