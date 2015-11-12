@@ -4,4 +4,4 @@
 
 [www.redaxo.org](http://www.redaxo.org) | [Api Doc](http://www.redaxo.org/docs/)
 
-{% include "SUMMARY.md" %}
+{% include "SHORT_SUMMARY.md" %}
