@@ -4,6 +4,8 @@ Redaxo ist gut verbreitet im deutschen Sprachraum. Haben Sie Fragen zum System, 
 
 ##Forum
 
+Das Forum finden Sie unter http://www.redaxo.org/de/forum. 
+
 ##Github
 
 ##Redaxo.org
