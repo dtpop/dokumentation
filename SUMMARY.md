@@ -13,7 +13,7 @@
    * [Module / Slices](first_steps/modules/README.md)
    * [Standardfunktionen](first_steps/core/README.md) 
 * [Hilfe, Support und FAQ](support/README.md)
-* [Addons](extend_redaxo/README.md)
+* [Redaxo erweitern](extend_redaxo/README.md)
    * [Package YML](extend_redaxo/package_yml/README.md)
        * [Requiries](extend_redaxo/package_yml/requiries.md)
        * [Page & Pages](extend_redaxo/package_yml/page_pages.md)
