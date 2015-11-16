@@ -4,7 +4,6 @@
     "plugins": [
         "richquotes",
         "anchors",
-        "-disqus",
         "collapsible-menu",
         "image-captions",
         "highlight",
