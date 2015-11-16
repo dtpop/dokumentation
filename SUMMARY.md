@@ -133,6 +133,5 @@
        * [PAGE_TITLE](extend_redaxo/extension_points/PAGE_TITLE.md)
        * [PAGE_TITLE_SHOWN](extend_redaxo/extension_points/PAGE_TITLE_SHOWN.md)
        * [PACKAGES_INCLUDED](extend_redaxo/extension_points/PACKAGES_INCLUDED.md)
-* 
    * [index](4.6/README.md)
 
