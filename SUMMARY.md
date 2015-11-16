@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Summary
 
 * [Einleitung](README.md)
 * [Installation](installation/README.md)
@@ -7,11 +7,10 @@
    * [Login](installation/login.md)
    * [Passwort vergessen](installation/reset_password.md)
 * [Erste Schritte](first_steps/README.md)
-   * [Benutzer und Rollen](first_steps/permissions/README.md) 
-   * [Einstellungen](first_steps/permissions/README.md)
+   * [Benutzer und Rollen](first_steps/permissions/README.md)
    * [Templates](first_steps/templates/README.md)
    * [Module / Slices](first_steps/modules/README.md)
-   * [Standardfunktionen](first_steps/core/README.md) 
+   * [Standardfunktionen](first_steps/core/README.md)
 * [Hilfe, Support und FAQ](support/README.md)
 * [Redaxo erweitern](extend_redaxo/README.md)
    * [Package YML](extend_redaxo/package_yml/README.md)
@@ -134,4 +133,5 @@
        * [PAGE_TITLE](extend_redaxo/extension_points/PAGE_TITLE.md)
        * [PAGE_TITLE_SHOWN](extend_redaxo/extension_points/PAGE_TITLE_SHOWN.md)
        * [PACKAGES_INCLUDED](extend_redaxo/extension_points/PACKAGES_INCLUDED.md)
-* [R.4.6](4.6/README.md)
+* [4.6](4.6/README.md)
+
