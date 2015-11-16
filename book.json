@@ -11,7 +11,8 @@
         "scrollablecode",
         "versions",
         "search",
-        "comment"
+        "comment",
+        "comments"
     ],
     "links": {
         "sidebar": {
