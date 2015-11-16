@@ -17,12 +17,12 @@
         }
     },
     "pluginsConfig": {
-        "versions": {
-          "gitbookConfigURL": "https://raw.githubusercontent.com/rackt/history/gh-pages/book.json",
-          "options": [
-            { "value": "https://rackt.github.io/history/v1.3.0/", "text": "Version 1.3.0" },
-            { "value": "https://rackt.github.io/history/v1.4.0/", "text": "Version 1.4.0", "selected": true }
-          ] 
+         "versions": {
+            "gitbookConfigURL": "https://raw.githubusercontent.com/contao/docs/master/manual/book.json",
+            "options": [
+                { "value": "https://sioweb.gitbooks.io/redaxo/5.0", "text": "Redaxo 5.0", "selected": true },
+                { "value": "https://sioweb.gitbooks.io/redaxo/4.6", "text": "Contao 4.6" },
+            ]
         }
     }
 }
