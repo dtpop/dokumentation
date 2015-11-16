@@ -4,7 +4,7 @@ Fragmente sind PHP-Dateien, die in einem oder mehrerer Addons wiederverwendet we
 
 Redaxo selbst liefert eine ganze Palette solcher Fragmete auf die ein Addon zugreifen kann. Diese Vorgehensweise ist sehr empfehlenswert, um das Backend einheitlich zu gestalten.
 
-Ein Fragment muss im Verzeichnis /fragments/ des Addons bzw. Plugins liegen.
+Ein Fragment muss im Verzeichnis `/fragments/` des Addons bzw. Plugins liegen.
 
 Das folgende Beispiel, zeigt den Aufruf des Fragmentes `sections.php`.
 
