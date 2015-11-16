@@ -7,6 +7,8 @@ Redaxo selbst liefert eine ganze Palette solcher Fragmete auf die ein Addon zugr
 Das folgende Beispiel, zeigt den Aufruf des Fragmentes `sections.php`.
 
 ```
+<?php
+
 $sections = '';
 $content = 'Lorem Ipsum Dolor Sit Amet…';
 
