@@ -6,8 +6,7 @@
         "anchors",
         "collapsible-menu",
         "image-captions",
-        "scrollablecode",
-        "versions"
+        "scrollablecode"
     ],
     "links": {
         "sidebar": {
