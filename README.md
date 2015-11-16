@@ -1,1 +1,1 @@
-!REDIRECT "stable"
+!REDIRECT "5.0"
