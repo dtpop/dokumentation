@@ -1,1 +1,1 @@
-# Redaxo
+!REDIRECT "5.0"
