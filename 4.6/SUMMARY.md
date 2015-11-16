@@ -1,3 +1,0 @@
-# Inhaltsverzeichnis
-
-* [Einleitung](README.md)
