@@ -1,30 +1,11 @@
-# Contao Documentation
+#REDAXO 5
 
-We are maintaining the Contao documentation here. Each project has its own
-subdirectory and can have multiple translations and versions (branches). If you
-want to contribute to a particular project, please read the `README.md` file in
-the corresponding subdirectory.
+*Einfach, flexibel, sinnvoll!*
 
+[www.redaxo.org](http://www.redaxo.org) | [Api Doc](http://www.redaxo.org/docs/)
 
-## API
+##Was ist neu
 
-Documentation of Contao APIs (Hooks, Callbacks, Core classes) (not yet used).
+Redaxo5 liefert für den Anwender in erster Linie ein schöneres, einheitlicheres auf Bootstrap basierendes Backend. Das moderne Userinterface funktioniert schneller und ist einfacher zu bedienen. Weniger auffallend aber sicher genauso wichtig, ist der optimierte Update-Prozess für Redaxo5 und Addons.
 
-
-## Cookbook
-
-Practical information and tips (see the [cookbook on contao.org][1]).
-
-
-## Manual
-
-Official manual for users and developers (see the [manual on contao.org][2]).
-
-
-## Playground
-
-Space for testing new projects.
-
-
-[1]: https://contao.org/en/cookbook.html
-[2]: https://contao.org/en/manual.html
+{% include "SHORT_SUMMARY.md" %}
