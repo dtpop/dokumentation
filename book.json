@@ -9,7 +9,7 @@
         "image-captions",
         "-highlight",
         "scrollablecode",
-        "-versions",
+        "versions",
         "-search",
         "-redirect"
     ],
