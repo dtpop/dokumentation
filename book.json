@@ -7,8 +7,7 @@
         "collapsible-menu",
         "image-captions",
         "highlight",
-        "scrollablecode",
-        "versions"
+        "scrollablecode"
     ],
     "links": {
         "sidebar": {
@@ -16,13 +15,5 @@
             "Forum": "http://www.redaxo.org/de/forum"
         }
     },
-    "pluginsConfig": {
-         "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
-            "options": [
-                { "value": "https://rex52.sioweb.de/5.0", "text": "Redaxo 5.0", "selected": true },
-                { "value": "https://rex52.sioweb.de/4.6", "text": "Contao 4.6" }
-            ]
-        }
-    }
+    "pluginsConfig": {}
 }
