@@ -12,8 +12,6 @@
     ],
     "links": {
         "sidebar": {
-            "API": "http://www.redaxo.org/docs/master/",
-            "Forum": "http://www.redaxo.org/de/forum"
         }
     },
     "pluginsConfig":  {
