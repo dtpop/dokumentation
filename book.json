@@ -21,6 +21,10 @@
         }
     },
     "pluginsConfig":  {
+        "disqus": {
+            "shortName": "redaxodocs",
+            "useIdentifier": true
+        },
          "versions": {
             "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
             "options": [
