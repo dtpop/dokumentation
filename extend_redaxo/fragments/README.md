@@ -24,4 +24,4 @@ echo $sections;
 * Fragment-Variablen setzen (Variablen können dem Fragment entnommen werden)
 * Fragment ausgeben `$fragment->parse('pfad/zum/fragment');`
 
-Das Fragment `sections.php` wird sehr oft verwendet in Redaxo
+Das Fragment `sections.php` wird sehr oft verwendet in Redaxo.
