@@ -21,7 +21,7 @@
             "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
             "options": [
                 { "value": "https://sioweb.gitbooks.io/redaxo/5.0", "text": "Redaxo 5.0", "selected": true },
-                { "value": "https://sioweb.gitbooks.io/redaxo/4.6", "text": "Contao 4.6" },
+                { "value": "https://sioweb.gitbooks.io/redaxo/4.6", "text": "Contao 4.6" }
             ]
         }
     }
