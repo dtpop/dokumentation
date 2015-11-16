@@ -1,56 +1,31 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-  "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-	<title>Git Book - #title</title>
-	<meta http-equiv="content-language" content="en">
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<link rel="icon" href="favicon.png" type="image/png">
-	<link rel="stylesheet" href="assets/blueprint/screen.css" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="assets/blueprint/print.css" type="text/css" media="print">
-  <!--[if IE]><link rel="stylesheet" href="assets/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
-	<link rel="stylesheet" href="assets/stylesheets/mac_classic.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="assets/stylesheets/style.css" type="text/css" media="screen, projection">
-</head>
-
-<body>
-<div class="container chapter showgrids">
-
-  <div class="span-21 header">
-    <div class="nav">#nav</div>
-    <div class="title"><a href='index.html'>Git Community Book</a></div>
-  </div>
-  
-  <div class="span-21">
-    <br/>
-  </div>
-  
-  <div class="span-21">
-    #body
-  </div>
-  
-  <div class="span-21">
-    <hr/>
-    <div class="center">#nav</div>
-    <hr/>
-  </div>
-  
-  <div class="span-17 footer">
-  	<div class="menu">
-  		This book is maintained by Scott Chacon, and hosting is donated by GitHub.
-  		<br>
-  		Please email me at <a href="mailto:schacon@gmail.com">schacon@gmail.com</a>
-  		with patches, suggestions and comments.
-	  </div>
-  </div>
-  <div class="span-4 last center">
-    <a href="http://github.com"><img src="assets/images/github.png" alt="github logo"></a>
-  </div>
-  
-</div>
-
-<script src="http://static.getclicky.com/40584.js" type="text/javascript"></script>
-<noscript><p><img alt="Clicky" src="http://in.getclicky.com/40584-db6.gif" /></p></noscript>
-
-</body>
+<!DOCTYPE HTML>
+<html lang="{{ language }}" {% if options.direction == "rtl" %}dir="rtl"{% endif %}>
+    {{ htmlSnippet("html:start")|default("", true)|safe }}
+    <head>
+        {{ htmlSnippet("head:start")|default("", true)|safe }}
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>{% block title %}{% endblock %}</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="{% block description %}{% endblock %}">
+        <meta name="generator" content="GitBook {{ gitbook.version }}">
+        {% if options.author %}<meta name="author" content="{{ options.author }}">{% endif %}
+        {% if options.isbn %}<meta name="identifier" content="{{ options.isbn }}" scheme="ISBN">{% endif %}
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ staticBase }}/images/apple-touch-icon-precomposed-152.png">
+        <link rel="shortcut icon" href="{{ staticBase }}/images/favicon.ico" type="image/x-icon">
+        {% block style %}{% endblock %}
+        {% block head %}{% endblock %}
+        {{ htmlSnippet("head:end")|default("", true)|safe }}
+    </head>
+    <body>
+        {{ htmlSnippet("body:start")|default("", true)|safe }}
+        {% block content %}{% endblock %}
+        {% block javascript %}{% endblock %}
+        {{ htmlSnippet("body:end")|default("", true)|safe }}
+    </body>
+    {{ htmlSnippet("html:end")|default("", true)|safe }}
 </html>
