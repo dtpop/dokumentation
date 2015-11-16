@@ -1,1 +1,1 @@
-!REDIRECT "5.0"
+REDIRECT "5.0"
