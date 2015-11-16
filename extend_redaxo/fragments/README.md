@@ -24,4 +24,4 @@ echo $sections;
 * Fragment-Variablen setzen (Variablen können dem Fragment entnommen werden)
 * Fragment ausgeben `$fragment->parse('pfad/zum/fragment');`
 
-Das Fragment `sections.php` wird sehr oft verwendet in Redaxo.
+Das Fragment `sections.php` wird sehr oft verwendet in Redaxo. Es ist möglich einen Titel und den Inhalt anzugeben. Das Design der Ausgabe wird zusätzlich durch die Variable `class` definiert. Im wesentlichen sind hier die Klassen `info` und `edit` möglich. `edit` erzeugt einen grünlichen Header mit gelblichen Formular-Body, während `info` einen blauen Header mit weißem Inhaltsbereich erzeugt. Weitere Klassen sind möglich.
