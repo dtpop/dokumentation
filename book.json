@@ -16,7 +16,6 @@
             "Forum": "http://www.redaxo.org/de/forum"
         }
     },
-    "test": 1,
     "pluginsConfig": {
          "versions": {
             "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
