@@ -1,4 +1,4 @@
-#Anmelden im Backend
+#Passwort ändern
 
 Über den Link „Mein Profil“ oben links können Sie Ihr Passwort ändern.
 
