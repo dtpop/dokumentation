@@ -33,6 +33,6 @@
    * [Dateien synchronisieren](medienpool/synchronisieren.md)
    * [Multiupload](medienpool/multiupload.md)
 * [Module](module/README.md)
-   * [Standard-Module](module/standard.md)
+   * [Standard-Module](module/README.md)
       * [Article Forwarder](module/standard/forwarder.md)
 * [Besonderheiten](besonderheiten/README.md)
