@@ -3,7 +3,7 @@
 * [Einleitung](README.md)
 * [Allgemeines und Grundlagen](allgemeines_und_grundlagen/README.md)
    * [Anmelden im Backend](allgemeines_und_grundlagen/anmelden.md)
-   * [Passwort ändern](allgemeines_und_grundlagen/passwort_anpassen)
+   * [Passwort ändern](allgemeines_und_grundlagen/passwort_anpassen.md)
    * [Strukturverwaltung](allgemeines_und_grundlagen/strukturverwaltung.md)
    * [Generelle Einstellungen & Parameter](allgemeines_und_grundlagen/einstellungen_parameter.md)
    * [Import / Export](allgemeines_und_grundlagen/import_export.md)
