@@ -1,1 +1,3 @@
+# Kategorie erstellen
+
 Sie erstellen Kategorien, indem Sie auf das Ordnersymbol mit dem Plus oben links klicken. Geben sie der neuen Kategorie einen Namen und die gewünschte Priorität. Die Priorität (Prio) entspricht auch der Anzeige in der Liste im Backend. Klicken Sie anschließend auf „Kategorie hinzufügen“. Nach dem Hinzufügen ist eine neue Kategorie immer zunächst offline, d.h. sie ist im Frontend nicht sichtbar. Da sie noch keine Inhalte hat, ist dies eine sinnvolle Standardeinstellung. Sie können sie durch einen Klick auf den Test offline nach Wunsch auf online schalten. Bitte geben Sie aber zuerst ein paar Inhalte ein.
