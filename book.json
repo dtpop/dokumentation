@@ -1,6 +1,6 @@
 {
     "gitbook": "2.4.x",
-    "title": "Redaxo 5 Dokumentation",
+    "title": "Redaxo 5 Handbuch",
     "plugins": [
         "richquotes",
         "anchors",
@@ -20,8 +20,10 @@
          "versions": {
             "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
             "options": [
-                { "value": "http://doku.redaxo.sioweb.de/5.0/books/", "text": "Redaxo 5.0", "selected": true },
-                { "value": "http://doku.redaxo.sioweb.de/4.6/books/", "text": "Contao 4.6" }
+                { "value": "http://doku.redaxo.sioweb.de/5.0/manual/", "text": "5.0 Handbuch"},
+                { "value": "http://doku.redaxo.sioweb.de/5.0/advanced/", "text": "5.0 Erweitern", "selected": true },
+                { "value": "http://doku.redaxo.sioweb.de/4.6/manual/", "text": "4.6 Handbuch" }
+                { "value": "http://doku.redaxo.sioweb.de/4.6/advanced/", "text": "4.6 Erweitern" }
             ]
         }
     }
