@@ -1,3 +1,5 @@
+#Strukturverwaltung
+
 Die Strukturverwaltung ist sozusagen der zentrale Teil der Websiteverwaltung, sie stellt die Übersicht der Inhalte dar und dient derer Verwaltung.
 
 Die Navigationsstruktur ist hierarchisch eingeteilt. Es gibt Kategorien und Artikel. Artikel werden in den verschiedenen Kategorien sortiert. In der jeweiligen Kategorie sind verschiedene Artikel (meist lediglich ein Startartikel). Jeder Artikel besteht wiederum aus verschiedenen Blöcken (Slices).
