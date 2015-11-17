@@ -1,0 +1,5 @@
+#Artikel
+
+In den Artikeln innerhalb einer Kategorie werden die eigentlichen Inhalte Ihrer Internetseite angelegt und gespeichert. Artikel dienen ebenso wie Kategorien als Container und enthalten verschiedene Blöcke / Slices. Diese sind zum Beispiel Texte, Bilder und anderen Inhalte. Artikel werden in der Strukturverwaltung immer unterhalb der Kategorien angezeigt. Um sich die Artikel einer Kategorie, klickt man auf den Kategoriennamen. Dadurch gelangt man zu ggf. vorhandenen Unterkategorien und den Artikeln.
+
+Generell gibt es zwei Artikeltypen: den Startartikel und alle weiteren. Der Startartikel ist immer vorhanden. Weitere Artikel können nach Belieben angelegt werden. Die Startartikel sind die jeweiligen Artikel, welche beim Aufruf einen Menüpunkts angezeigt werden. Die weiteren Artikel innerhalb einer Kategorie können nur über direkte Links von einem anderen Artikel aus aufgerufen werden. Aus diesem Grund werden Sie feststellen, dass eine Kategorie meist nur einen Startartikel hat.
