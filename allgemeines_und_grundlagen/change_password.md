@@ -18,4 +18,6 @@ Wir empfehlen Ihnen das Passwort in regelmäßigen Abständen zu ändern.
 
 ###Hier ein Beispiel:
 
-"Morgens stehe ich auf und putze mir meine Zähne drei Minuten lang." Nur die 1. Buchstaben: "MsiaupmmZdMl". "i und l" sieht aus wie "1", "&" ersetzt das "und": "Ms1a&pmmZ3M1". Auf diese Weise hat man sich eine gute "Eselsbrücke" gebaut. Natürlich gibt es viele andere Tricks und Methoden, die genauso gut funktionieren.
+> Morgens stehe ich auf und putze mir meine Zähne drei Minuten lang
+
+Nur die 1. Buchstaben: "MsiaupmmZdMl". "i und l" sieht aus wie "1", "&" ersetzt das "und": "Ms1a&pmmZ3M1". Auf diese Weise hat man sich eine gute "Eselsbrücke" gebaut. Natürlich gibt es viele andere Tricks und Methoden, die genauso gut funktionieren.
