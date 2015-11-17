@@ -22,8 +22,8 @@
             "options": [
                 { "value": "http://doku.redaxo.sioweb.de/5.0/manual/", "text": "5.0 Handbuch"},
                 { "value": "http://doku.redaxo.sioweb.de/5.0/advanced/", "text": "5.0 Erweitern"},
-                { "value": "http://doku.redaxo.sioweb.de/4.6/manual/", "text": "4.6 Handbuch"}
-                { "value": "http://doku.redaxo.sioweb.de/4.6/advanced/", "text": "4.6 Erweitern", "selected": true }
+                { "value": "http://doku.redaxo.sioweb.de/4.6/manual/", "text": "4.6 Handbuch"},
+                { "value": "http://doku.redaxo.sioweb.de/4.6/advanced/", "text": "4.6 Erweitern", "selected": true}
             ]
         }
     }
