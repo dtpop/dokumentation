@@ -1,3 +1,5 @@
+#Import / Export
+
 Im Menü auf der linken Seite finden Sie unter AddOns den Eintrag `Im-/Export`, sofern dieser seitens der Entwickler installiert wurde und auf Ihrer Seite verwendet wird.
 
 Über `Export` können Sie die aktuelle Datenbank und die Dateien auf dem Server sichern oder auf Ihren PC herunterladen. Wir empfehlen vor einer größeren Änderung die `Datenbank` zu exportieren, um diesen Stand ggf. wieder herzustellen. Eine Sicherung der Datenbank sollte man in regelmäßigen Abständen durchführen.
