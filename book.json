@@ -1,6 +1,6 @@
 {
     "gitbook": "2.4.x",
-    "title": "Redaxo 5 Handbuch",
+    "title": "Redaxo 4.6 Handbuch",
     "plugins": [
         "richquotes",
         "anchors",
