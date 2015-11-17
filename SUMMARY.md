@@ -2,7 +2,6 @@
 
 * [Einleitung](README.md)
 * [Allgemeines und Grundlagen](allgemeines_und_grundlagen/README.md)
-   * [Grundlagen](allgemeines_und_grundlagen/generall.md)
    * [Anmelden im Backend](allgemeines_und_grundlagen/login.md)
    * [Passwort ändern](allgemeines_und_grundlagen/change_password.md)
    * [Strukturverwaltung](allgemeines_und_grundlagen/structure.md)
