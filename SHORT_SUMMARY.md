@@ -9,7 +9,7 @@
       * [Navigation](templates_modules/templates/navigation.md)
       * [Mehrere Artikel einbinden](templates_modules/templates/mehrere_artikel.md)
       * [Includes](templates_modules/templates/includes.md)
-      * [Metadaten/Sonstiges](templates_modules/templates/includes.md)
+      * [Metadaten/Sonstiges](templates_modules/templates/metadaten.md)
    * [Modules](templates_modules/modules/erstellen.md)
       * [Erstellen](templates_modules/erstellen.md)
       * [Redaxo-Variablen](templates_modules/redaxo_variablen.md)
