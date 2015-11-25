@@ -14,7 +14,7 @@
         "sidebar": {
             "API": "http://www.redaxo.org/docs/master/",
             "Forum": "http://www.redaxo.org/de/forum",
-            "Redaxo für Anwender": "http://doku.redaxo.sioweb.de/5.0/manual/"
+            "Redaxo für Anwender": "http://book.redaxo.org/5.0/manual/"
         }
     },
     "pluginsConfig": {
