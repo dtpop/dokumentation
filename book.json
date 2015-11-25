@@ -13,7 +13,7 @@
     "links": {
         "sidebar": {
             "Forum": "http://www.redaxo.org/de/forum",
-            "Redaxo für Entwickler": "http://doku.redaxo.sioweb.de/5.0/advanced/"
+            "Redaxo für Entwickler": "http://book.redaxo.org/5.0/advanced/"
         }
     },
     "pluginsConfig": {
