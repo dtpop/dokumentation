@@ -19,7 +19,7 @@
     },
     "pluginsConfig": {
          "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/redaxo/dokumentation/master/book.json",
             "options": [
                 { "value": "http://book.redaxo.org/5.0/manual/", "text": "5.0 Handbuch"},
                 { "value": "http://book.redaxo.org/5.0/advanced/", "text": "5.0 Erweitern", "selected": true },
