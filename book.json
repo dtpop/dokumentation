@@ -23,7 +23,7 @@
                 { "value": "http://book.redaxo.org/5.0/manual/", "text": "5.0 Handbuch"},
                 { "value": "http://book.redaxo.org/5.0/advanced/", "text": "5.0 Erweitern"},
                 { "value": "http://book.redaxo.org/4.6/manual/", "text": "4.6 Handbuch", "selected": true},
-                { "value": "book.redaxo.org/4.6/advanced/", "text": "4.6 Erweitern"}
+                { "value": "http://book.redaxo.org/4.6/advanced/", "text": "4.6 Erweitern"}
             ]
         }
     }
