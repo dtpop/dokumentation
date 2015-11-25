@@ -4,7 +4,7 @@
 
 *Einfach, flexibel, sinnvoll!*
 
-[www.redaxo.org](http://www.redaxo.org) | [Api Doc](http://www.redaxo.org/docs/) | [Gitbook](http://doku.redaxo.sioweb.de/5.0/advanced/)
+[www.redaxo.org](http://www.redaxo.org) | [Api Doc](http://www.redaxo.org/docs/) | [Gitbook](http://book.redaxo.org/5.0/advanced/)
 
 ###Was ist neu
 
