@@ -7,7 +7,7 @@
    * [Login](installation/login.md)
    * [Passwort vergessen](installation/reset_password.md)
 * [Erste Schritte](first_steps/README.md)
-   * [Benutzer und Rollen](first_steps/permissions/README.md)
+   * [Benutzer und Rollen](first_steps/user_roles/README.md)
    * [Templates](first_steps/templates/README.md)
    * [Module / Slices](first_steps/modules/README.md)
    * [Standardfunktionen](first_steps/core/README.md)
