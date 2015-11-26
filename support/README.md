@@ -1,25 +1,29 @@
 # Hilfe, Support und FAQ
 
-Redaxo ist gut verbreitet im deutschen Sprachraum. Haben Sie Fragen zum System, einem Addon oder zur Handhabung, können Sie an verschiedenen Stellen Hilfe anforden.
+Redaxo ist gut verbreitet im deutschen Sprachraum. Falls Du Fragen zum System hast, zu einem Addon oder zur Handhabung, kannst Du an verschiedenen Stellen Hilfe anfordern.
 
-##Forum
+## Forum
 
-Das Forum finden Sie unter http://www.redaxo.org/de/forum. 
+Das Forum findest Du unter http://www.redaxo.org/de/forum. 
 
-##Fehler melden
+## Fehler melden
 
-Fehler können in jedem System auftauchen. Sollten Sie einen gefunden haben, bitten wir Sie diese zu melden, damit wir diese zeitnah beheben können. 
+Fehler können in jedem System auftauchen. Solltest Du welche finden, dann melde uns diese bitte, damit wir sie zeitnah beheben können.
 
-##Hilfe zu einem Addon
+## Hilfe zu einem Addon
 
-Addons werden von unserem Core-Team und auch von eigenständigen Entwicklern programmiert. Sollten Sie Hilfe zu einem Addon benötigen, prüfen Sie bitte ob der Erstellen des Addons in der mitgelieferten Hilfe genannt wird und schreiben Sie diesen ggf. direkt an.
+Addons werden von unserem Core-Team und auch von eigenständigen Entwicklern programmiert. Solltest Du Hilfe zu einem Addon benötigen, dann prüfe bitte, ob der Entwickler des Addons in der mitgelieferten Hilfe genannt wird und schreibe diesen ggf. direkt an.
 
-Gerne können Sie auch die Community im [Forum](http://www.redaxo.org/de/forum/) um Hilfe bitten. 
+Gerne kannst Du auch die Community im [Forum][1] um Hilfe bitten.
 
-##Agenturen finden
+## Agenturen finden
 
-Suchen Sie Redaxo-Agenturen, bieten wir Ihnen eine [kurze Übersicht eingetragener Agenturen](http://www.redaxo.org/de/redaxo/agenturen-support/) direkt auf der Webseite an und Sie können Aufträge auch über das Forum anbieten: http://www.redaxo.org/de/forum/jobs-anfragen-f21/.
+Wenn Du auf der Suche nach Redaxo-Agenturen bist, so findest Du direkt auf der Webseite eine [kurze Übersicht eingetragener Agenturen][2]. Du kannst Aufträge aber auch über das Forum anbieten: http://www.redaxo.org/de/forum/jobs-anfragen-f21/.
 
-##F.A.Q
+## F.A.Q
 
-[F.A.Q. zu Redaxo5](http://www.redaxo.org/de/wiki/index.php?n=R5.FAQ)
+[F.A.Q. zu Redaxo5][3]
+
+[1]:	http://www.redaxo.org/de/forum/
+[2]:	http://www.redaxo.org/de/redaxo/agenturen-support/
+[3]:	http://www.redaxo.org/de/wiki/index.php?n=R5.FAQ
