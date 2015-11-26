@@ -14,17 +14,17 @@
         "sidebar": {
             "API": "http://www.redaxo.org/docs/master/",
             "Forum": "http://www.redaxo.org/de/forum",
-            "Redaxo für Anwender": "http://doku.redaxo.sioweb.de/5.0/manual/"
+            "Redaxo für Anwender": "http://book.redaxo.org/5.0/manual/"
         }
     },
     "pluginsConfig": {
          "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/sioweb/redaxo/master/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/redaxo/dokumentation/master/book.json",
             "options": [
-                { "value": "http://doku.redaxo.sioweb.de/5.0/manual/", "text": "5.0 Handbuch"},
-                { "value": "http://doku.redaxo.sioweb.de/5.0/advanced/", "text": "5.0 Erweitern", "selected": true },
-                { "value": "http://doku.redaxo.sioweb.de/4.6/manual/", "text": "4.6 Handbuch"},
-                { "value": "http://doku.redaxo.sioweb.de/4.6/advanced/", "text": "4.6 Erweitern" }
+                { "value": "http://book.redaxo.org/5.0/manual/", "text": "5.0 Handbuch"},
+                { "value": "http://book.redaxo.org/5.0/advanced/", "text": "5.0 Erweitern", "selected": true },
+                { "value": "http://book.redaxo.org/4.6/manual/", "text": "4.6 Handbuch"},
+                { "value": "http://book.redaxo.org/4.6/advanced/", "text": "4.6 Erweitern" }
             ]
         }
     }
