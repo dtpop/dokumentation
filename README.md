@@ -1,6 +1,6 @@
 #REDAXO 5
 
-##Für Entwickler
+##Für Entwickler 
 
 *Einfach, flexibel, sinnvoll!*
 
