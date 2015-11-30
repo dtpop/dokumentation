@@ -13,6 +13,7 @@
     "links": {
         "sidebar": {
             "Forum": "http://www.redaxo.org/de/forum",
+            "Wie kann ich helfen?": "https://github.com/redaxo/dokumentation/wiki",
             "Redaxo für Entwickler": "http://book.redaxo.org/5.0/advanced/"
         }
     },
