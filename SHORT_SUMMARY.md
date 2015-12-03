@@ -16,6 +16,7 @@
       * [Aktionen](templates_modules/modules/aktionen.md)
 * [Addons entwickeln](create_addon/README.md)
    * [Package YML](create_addon/package_yml/README.md)
+   * [Konfiguration](create_addon/config/README.md)
    * [PJAX](create_addon/pjax/README.md)
    * [Sprachen](create_addon/languages/README.md)
    * [Seiten](create_addon/pages/README.md)
