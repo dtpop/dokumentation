@@ -35,7 +35,7 @@ Folgende Struktur sollte ein Addon besitzen:
 
 ####package.yml
 
-[Siehe Package YML](addons/package_yml/README.md)
+[Siehe Package YML](package_yml/README.md)
 
 ###boot.php
 
@@ -63,15 +63,15 @@ Diese Datei wird bei der Deinstallation aufgerufen. Es können SQL-Befehle ausge
 
 ####Assets
 
-Assets ist der neue Files-Ordner aus Redaxo4. Alle Dateien aus diesem Verzeichnis, speichert Redaxo in `ROOT/assets/addons/ADDON_NAME/`. Von dort aus können sie bequem geladen werden. [Siehe Assets](addons/assets/README.md).
+Assets ist der neue Files-Ordner aus Redaxo4. Alle Dateien aus diesem Verzeichnis, speichert Redaxo in `ROOT/assets/addons/ADDON_NAME/`. Von dort aus können sie bequem geladen werden. [Siehe Assets](assets/README.md).
 
 ####Fragments
 
-Fragmente sind PHP-Dateien die an verschiedenen Stellen im Code wiederverwendet werden können. Bei einfachen Addons reicht es ein Fragment einfach in das `fragments`-Verzeichnis zu speichern, es sollten aber logisch benannte Unterverzeichnisse erstellt werden. [Siehe Fragmente](addons/fragments/README.md).
+Fragmente sind PHP-Dateien die an verschiedenen Stellen im Code wiederverwendet werden können. Bei einfachen Addons reicht es ein Fragment einfach in das `fragments`-Verzeichnis zu speichern, es sollten aber logisch benannte Unterverzeichnisse erstellt werden. [Siehe Fragmente](fragments/README.md).
 
 ####Lang
 
-In lang werden die Sprachdateien mit der Endung .lang gespeichert. Mögliche Namen könnten sein `de_de.lang` oder auch `en_en.lang`. [Siehe Sprachdateien](addons/languages/README.md).
+In lang werden die Sprachdateien mit der Endung .lang gespeichert. Mögliche Namen könnten sein `de_de.lang` oder auch `en_en.lang`. [Siehe Sprachdateien](languages/README.md).
 
 ####Lib
 
