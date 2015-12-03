@@ -81,7 +81,7 @@ Lib ist der ehemalige `classes`-Ordner. Hier werden alle Klassen gespeichert die
 
 ####Plugins
 
-[Siehe Plugins](addons/plugins/README.md)
+[Siehe Plugins](../create_plugin/README.md)
 
 ###Sonstige Verzeichnisse
 
