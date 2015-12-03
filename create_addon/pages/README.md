@@ -41,7 +41,7 @@ page:
   title: 'translate:title'  
   prio: 1
   pjax: true
-  block: system
+  block: shop
   perm: slice_ui[]
   icon: rex-icon rex-icon-copy
 ```
