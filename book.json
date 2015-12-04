@@ -9,7 +9,8 @@
         "highlight",
         "scrollablecode",
         "versions",
-        "search"
+        "-search",
+        "search-pro"
     ],
     "links": {
         "sidebar": {
@@ -28,6 +29,10 @@
                 { "value": "http://book.redaxo.org/4.6/manual/", "text": "4.6 Handbuch"},
                 { "value": "http://book.redaxo.org/4.6/advanced/", "text": "4.6 Erweitern" }
             ]
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Eins","Zwei"]
         }
     }
 }
