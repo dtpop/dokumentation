@@ -20,6 +20,8 @@ Gerne kannst Du auch die Community im [Forum][1] um Hilfe bitten.
 
 Wenn Du auf der Suche nach Redaxo-Agenturen bist, so findest Du direkt auf der Webseite eine [kurze Übersicht eingetragener Agenturen][2]. Du kannst Aufträge aber auch über das Forum anbieten: http://www.redaxo.org/de/forum/jobs-anfragen-f21/.
 
+Zusätzlich findest du hier Redaxo-Agenturen in deiner Nähe: [http://redaxo-entwickler.de](http://redaxo-entwickler.de). Gerne kannst du dich auf dieser Seite eintragen, falls du selbst mit Redaxo arbeitest und gefunden werden willst.
+
 ## F.A.Q
 
 [F.A.Q. zu Redaxo5][3]
