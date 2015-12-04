@@ -31,7 +31,7 @@ if (is_dir($media) && !is_dir(rex_path::media('assets/'))) {
     throw new rex_functional_exception($this->i18n('install_cant_copy_files'));
   }
 }
-`` 
+```
 
 ## SQL-Dateien und Variablen
 
