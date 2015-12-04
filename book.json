@@ -9,8 +9,7 @@
         "highlight",
         "scrollablecode",
         "versions",
-        "-search",
-        "search-pro"
+        "-search"
     ],
     "links": {
         "sidebar": {
