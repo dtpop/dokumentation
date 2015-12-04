@@ -24,7 +24,6 @@
    * [Benutzer und Rollen](create_addon/user_roles/README.md)
    * [Plugins](create_addon/plugins/README.md)
    * [Assets](create_addon/assets/README.md)
-   * [Debug](create_addon/debug/README.md)
    * [Fragments / Subfragments](create_addon/fragments/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)
        * [BE_STYLE_SCSS_FILES](create_addon/extension_points/BE_STYLE_SCSS_FILES.md)
@@ -136,6 +135,7 @@
        * [PAGE_TITLE](create_addon/extension_points/PAGE_TITLE.md)
        * [PAGE_TITLE_SHOWN](create_addon/extension_points/PAGE_TITLE_SHOWN.md)
        * [PACKAGES_INCLUDED](create_addon/extension_points/PACKAGES_INCLUDED.md)
+* [Debug](debug/README.md)
 * [Plugins entwickeln](create_plugin/README.md)
 * [Externe Tools](vendors/README.md)
 
