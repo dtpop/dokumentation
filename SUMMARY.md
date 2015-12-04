@@ -24,6 +24,7 @@
    * [Benutzer und Rollen](create_addon/user_roles/README.md)
    * [Plugins](create_addon/plugins/README.md)
    * [Assets](create_addon/assets/README.md)
+   * [Debug](create_addon/debug/README.md)
    * [Fragments / Subfragments](create_addon/fragments/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)
        * [BE_STYLE_SCSS_FILES](create_addon/extension_points/BE_STYLE_SCSS_FILES.md)
