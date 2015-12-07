@@ -8,6 +8,4 @@
    * [Includes](templates/includes.md)
    * [Metadaten/Sonstiges](templates/metadaten.md)
 * [Modules](modules/erstellen.md)
-   * [Erstellen](modules/erstellen.md)
-   * [Redaxo-Variablen](modules/redaxo_variablen.md)
    * [Aktionen](modules/aktionen.md)
