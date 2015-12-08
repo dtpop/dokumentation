@@ -134,6 +134,7 @@
        * [PAGE_TITLE](create_addon/extension_points/PAGE_TITLE.md)
        * [PAGE_TITLE_SHOWN](create_addon/extension_points/PAGE_TITLE_SHOWN.md)
        * [PACKAGES_INCLUDED](create_addon/extension_points/PACKAGES_INCLUDED.md)
+* [Best Praxis](best_praxis/README.md)
 * [Debug](debug/README.md)
 * [Plugins entwickeln](create_plugin/README.md)
 * [Externe Tools](vendors/README.md)
