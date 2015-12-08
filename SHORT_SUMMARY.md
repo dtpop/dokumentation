@@ -27,5 +27,6 @@
    * [Veröffentlichen](create_addon/publish/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)
 * [Debug](debug/README.md)
+   * [Datenbank](best_praxis/database/README.md)
 * [Plugins entwickeln](create_plugin/README.md)
 * [Externe Tools](vendors/README.md)
