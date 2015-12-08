@@ -24,6 +24,7 @@
    * [Assets](create_addon/assets/README.md)
    * [REX_VARS](create_addon/rex_vars/README.md)
    * [Fragments / Subfragments](create_addon/fragments/README.md)
+   * [Veröffentlichen](create_addon/publish/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)
        * [BE_STYLE_SCSS_FILES](create_addon/extension_points/BE_STYLE_SCSS_FILES.md)
        * [BE_STYLE_PAGE_CONTENT](create_addon/extension_points/BE_STYLE_PAGE_CONTENT.md)
