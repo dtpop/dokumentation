@@ -137,6 +137,8 @@
        * [PACKAGES_INCLUDED](create_addon/extension_points/PACKAGES_INCLUDED.md)
 * [Best Praxis](best_praxis/README.md)
    * [Datenbank](best_praxis/database/README.md)
+      * [Allgemein](best_praxis/database/README.md)
+      * [Weiteres](best_praxis/database/more.md)
    * [Dateien & Verzeichnisse](best_praxis/files/README.md)
 * [Debug](debug/README.md)
 * [Plugins entwickeln](create_plugin/README.md)

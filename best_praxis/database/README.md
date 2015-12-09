@@ -88,7 +88,3 @@ try {
   echo rex_view::warning($e->getMessage());
 }
 ```
-
-## Weiteres
-
-@todo
