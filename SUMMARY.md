@@ -140,6 +140,7 @@
       * [Allgemein](best_praxis/database/README.md)
       * [Weiteres](best_praxis/database/more.md)
    * [Dateien & Verzeichnisse](best_praxis/files/README.md)
+   * [Meta-Felder](best_praxis/meta/README.md)
 * [Debug](debug/README.md)
 * [Plugins entwickeln](create_plugin/README.md)
 * [Externe Tools](vendors/README.md)
