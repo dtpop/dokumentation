@@ -2,6 +2,16 @@
 
 In diesem Beispiel, wird vorausgesetzt, dass alle Assets wie CSS-, JS- und Hintergrundbilder in `/assets/default/css|js|img` liegen.
 
+## Templates im Dateisystem
+
+### Developer-Addon
+
+Templates, Module und Aktionen können wie in R4 auch mit dem Developer-Addon generiert werden. Das Addon speichert alle Dateien in dem Verzeichnis `/redaxo/data/addons/developer/` ab.
+
+### Sync
+
+@todo
+
 ## Head
 
 Für diesen Teil wird das Addon yReqrite benötigt:
