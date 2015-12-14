@@ -30,9 +30,11 @@ page:
 
 ## Externe Scripte laden
 
-Scripte die in der Rückgabe von PJAX geladen werden über `document.write` müssen speziell behandelt werden. Im Fall von Google Maps darf man das Script nicht mehrfach laden. Dass heißt es muss vorab geprüft werden, ob `var google` bereits geladen worden ist.
+Scripte die in der Rückgabe von PJAX geladen werden über `document.write` müssen speziell behandelt werden. Im Fall von Google Maps darf man das Script nicht mehrfach laden. Das heißt es muss vorab geprüft werden, ob `var google` bereits geladen worden ist.
 
-Wenn nicht, lade Google Maps:
+Google und Youtube als Beispiel, rufen jeweils eine javascript Funktion auf, sobald die API geladen wurde. Diese kann als `ready` Funktion genutzt werden. Für Google kann diese Funktion Definiert werden, Youtube hingegen ruft einfach die Funktion `onYouTubeIframeAPIReady()` auf. Genaueres solltest Du in der Dokumentation der jeweiligen Library finden
+
+### Beispiel
 
 ```
 function loadScript(src){
