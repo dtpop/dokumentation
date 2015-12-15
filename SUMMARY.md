@@ -4,7 +4,7 @@
 * [Hilfe, Support und FAQ](support/README.md)
 * [Templates](templates/README.md)   
 * [Module](modules/README.md)
-      * [Aktionen](modules/actions.md)
+   * [Aktionen](modules/actions.md)
 * [Addons entwickeln](create_addon/README.md)
    * [Package YML](create_addon/package_yml/README.md)
    * [Konfiguration](create_addon/config/README.md)
