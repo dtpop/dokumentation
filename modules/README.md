@@ -35,8 +35,8 @@ Auch wichtig ist, dass Daten nach dem Speichern nicht zwangsläufig durch SQL er
 		<th>Beschreibung</th>
 	</tr>
 	<tr>
-		<td valign="top">REX_VALUE[1-20]</td>
-		<td>
+		<td width="170px"valign="top">REX_VALUE[1-20]</td>
+		<td width="170px">
 			id=1-20<br>
 			output=php | html<br>
 		</td>
