@@ -17,6 +17,7 @@
    * [Plugins](create_addon/plugins/README.md)
    * [Assets](create_addon/assets/README.md)
    * [REX_VARS](create_addon/rex_vars/README.md)
+   * [Redaxo API](create_addon/api/README.md)
    * [Fragments / Subfragments](create_addon/fragments/README.md)
    * [Veröffentlichen](create_addon/publish/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)

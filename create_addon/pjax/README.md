@@ -58,7 +58,6 @@ if(typeof google === "undefined") {
 	}
 	
 }
-// 
 ```
 
 Da dieser Vorgang auch beim Speichern nochmal ausgeführt wird, gibt es unweigerlich eine Fehlermeldung, da das Google-Maps-Element nicht existiert:
