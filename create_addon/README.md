@@ -93,6 +93,6 @@ Es ist natürlich erlaubt weiterhin eigene Verzeichnisse hinzuzufügen. In dem A
 
 ####Vendoren
 
-Laden Sie den Vendor herunter. In unserem Beispiel verwenden wird [LessPHP von Github](https://github.com/oyejorge/less.php). Erstellen Sie im `vendor`-Verzeichnis Ihres Addons das Verzeichnis `lessphp` und verschieben den entpackten Inhalt aus dem LessPHP-File von Github.
+Lade den Vendor herunter. In unserem Beispiel verwenden wir [LessPHP von Github](https://github.com/oyejorge/less.php). Erstelle im `vendor`-Verzeichnis Deines Addons das Verzeichnis `lessphp` und verschiebe den entpackten Inhalt aus dem LessPHP-File von Github.
 
 Redaxo wird den neuen Vendor nun automatisch laden. Der Less-Parser kann nun mit `<?php new Less_Parser( /* settings */ );?>` verwendet werden.
