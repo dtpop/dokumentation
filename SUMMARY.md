@@ -2,10 +2,9 @@
 
 * [Einleitung](README.md) 
 * [Hilfe, Support und FAQ](support/README.md)
-* [Templates und Module](templates_modules/README.md)
-   * [Templates in Redaxo5](templates_modules/templates/README.md)
-   * [Modules](templates_modules/modules/erstellen.md)
-      * [Aktionen](templates_modules/modules/aktionen.md)
+* [Templates](templates/README.md)   
+* [Module](modules/README.md)
+      * [Aktionen](modules/actions.md)
 * [Addons entwickeln](create_addon/README.md)
    * [Package YML](create_addon/package_yml/README.md)
    * [Konfiguration](create_addon/config/README.md)

@@ -1,18 +1,4 @@
-# Templates und Module
-
-In Redaxo wird Markup in die Datenbank gespeichert. Mit dem Addon [Developer](http://www.redaxo.org/de/download/addons/?addon_id=338&searchtxt=&cat_id=-1) können diese Markups in Dateien zur besseren Verarbeitung ausgelagert werden. Wichtig ist, dass man im Backend angemeldet sein muss, damit Änderungen in den Dateien wirksam werden.
-
-{% include "SUMMARY.md" %}
-
-## Templates
-
-Unter `Templates` können neue Templates angelegt werden. Ein Template ist so zu sagen die Startdatei bzw. `index.html`. Mit Hilfe eines Templates wird das Layout einer Seite (eines Artikels) festgelegt. Hier wird die generelle Struktur des Artikels einschließlich der Navigation definiert. Metatags, Stylesheets und Javascript können eingebunden werden.
-
-Alle Artikel, denen ein bestimmtes Template zugewiesen wird, erhalten dadurch ein einheitliches Layout. Der artikelspezifische Inhalt wird jeweils über die Funktion $this->getArticle() oder die globale Variable REX_ARTICLE[] eingefügt.
-
-Es können Templates erstellt werden, die in den Artikeln selektiert werden sollen, oder welche, die in andere Templates eingebunden werden sollen.
-
-## Module
+# Module
 
 Module werden bei REDAXO gebraucht, um die Artikel mit Inhalt zu füllen.
 

@@ -1,6 +1,10 @@
-# Templates erstellen
+# Templates
 
-In diesem Beispiel, wird vorausgesetzt, dass alle Assets wie CSS-, JS- und Hintergrundbilder in `/assets/default/css|js|img` liegen.
+Unter `Templates` können neue Templates angelegt werden. Ein Template ist so zu sagen die Startdatei bzw. `index.html`. Mit Hilfe eines Templates wird das Layout einer Seite (eines Artikels) festgelegt. Hier wird die generelle Struktur des Artikels einschließlich der Navigation definiert. Metatags, Stylesheets und Javascript können eingebunden werden.
+
+Alle Artikel, denen ein bestimmtes Template zugewiesen wird, erhalten dadurch ein einheitliches Layout. Der artikelspezifische Inhalt wird jeweils über die Funktion $this->getArticle() oder die globale Variable REX_ARTICLE[] eingefügt.
+
+Es können Templates erstellt werden, die in den Artikeln selektiert werden sollen, oder welche, die in andere Templates eingebunden werden sollen.
 
 ## Templates im Dateisystem
 
