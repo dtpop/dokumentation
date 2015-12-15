@@ -130,6 +130,7 @@
        * [PAGE_TITLE](create_addon/extension_points/PAGE_TITLE.md)
        * [PAGE_TITLE_SHOWN](create_addon/extension_points/PAGE_TITLE_SHOWN.md)
        * [PACKAGES_INCLUDED](create_addon/extension_points/PACKAGES_INCLUDED.md)
+* [Bootstrap](bootstrap/README.md)
 * [Best Praxis](best_praxis/README.md)
    * [Datenbank](best_praxis/database/README.md)
       * [Allgemein](best_praxis/database/README.md)

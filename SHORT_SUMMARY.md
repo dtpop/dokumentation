@@ -21,6 +21,7 @@
    * [Fragments / Subfragments](create_addon/fragments/README.md)
    * [Veröffentlichen](create_addon/publish/README.md)
    * [Extension Points](create_addon/extension_points/0.README.md)
+* [Bootstrap](bootstrap/README.md)
 * [Best Praxis](best_praxis/README.md)
    * [Datenbank](best_praxis/database/README.md)
       * [Datenbank](best_praxis/database/README.md)
