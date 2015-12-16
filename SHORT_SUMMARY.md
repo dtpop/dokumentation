@@ -5,6 +5,7 @@
 * [Templates](templates/README.md)   
 * [Module](modules/README.md)
    * [Aktionen](modules/actions.md)
+* [Artikel & Kategorien](articles/README.md)   
 * [Addons entwickeln](create_addon/README.md)
    * [Package YML](create_addon/package_yml/README.md)
    * [Konfiguration](create_addon/config/README.md)
