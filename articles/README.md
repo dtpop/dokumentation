@@ -8,6 +8,9 @@ Redaxo unterscheidet zwischen Kategorien und Artikel. Inhalte werden in Artikel 
 
 Die Methoden zum laden weiterer Artikel besitzen meist auch einen Parameter zum ignorieren von Offline-Inhalten.
 
+###Allgemein
+
+
 ```
 // StartArtikel
 $SiteStartArticle   = rex_article::getSiteStartArticle();
@@ -30,6 +33,21 @@ $articles = $cat ? $cat->getArticles(true) : [];
 $artikelStatus    = rex_article::getCurrent()->getValue('status');
 //$artikelStatus  = REX_ARTICLE[field='status'];
 //$artikelStatus  = $this->getValue("status");
+```
+
+### Alle Artikel einer Kategorie ausgeben
+
+```
+<?php 
+$Articles = rex_category::getCurrent()->getArticles();
+$CurrentArticle = rex_article::getCurrent();
+
+foreach($Articles as $Article) {
+	$content = new rex_article_content;
+	$content->setArticleID($Article->getId());
+	echo $content->getArticle();
+}
+?>
 ```
 
 ## Kategorien
