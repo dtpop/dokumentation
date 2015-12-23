@@ -9,7 +9,7 @@ Im Backend wird jQuery und eine benutzerdefinierte Version von jQuery UI verwend
 ```
 $(document).on('rex:ready', function (event, container) {
     // Code goes here
-    // container.find('.my_class).click(function () {
+    // container.find('.my_class').click(function () {
     //     
     // });
 });
