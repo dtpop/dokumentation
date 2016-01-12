@@ -17,7 +17,7 @@ $(document).on('rex:ready', function (event, container) {
 
 ## Package.yml
 
-In der Datei `package.yml` kann für jede Seite und Unterseite pjax aktiviert werden.
+In der Datei `package.yml` kann für jede Seite und Unterseite pjax aktiviert werden. Wenn pjax:true werden alle Links und Formulare per pjax geladen, solange sie auf die gleich Page (Subpage) verweisen.
 
 ```
 page:
@@ -27,9 +27,9 @@ page:
 		bar: {pjax: false, title: translate:bar}
 ```
 
-## Parameter
+## URL Push verhindern
 
-@todo parameter `data-pjax="true"`
+Mit dem Parameter data-ajax-no-history="1" kann verhindert werden, dass die URL geändert wird. Das kann vor allem dann nützlich sein, wenn PJAX nur als Trigger funktioniert.
 
 ## Externe Scripte laden
 
