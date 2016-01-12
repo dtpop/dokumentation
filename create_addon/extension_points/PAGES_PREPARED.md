@@ -6,7 +6,7 @@ Als Beispiel laden wir statt `/structure/pages/index.php` jetzt `/meinAddon/page
 rex_extension::register('PAGES_PREPARED',function($ep) {
   if (rex_be_controller::getCurrentPage() == 'structure') {
     $Page = rex_be_controller::getCurrentPageObject();
-    $Page->setSubPath($this->getPath('pages/index.php'));
+    $Page->setPath($this->getPath('pages/index.php'));
   }
 });
 ```
