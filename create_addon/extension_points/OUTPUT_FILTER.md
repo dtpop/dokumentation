@@ -14,3 +14,16 @@ if (rex::isBackend()) { // Backend
   });
 }
 ```
+
+## Pjax soll die URL nicht ändern
+
+Wenn in der Datei `package.yml` pjax:true ist, ändert PJAX auch die URL. Die URL wird nicht geändert, wenn data-pjax-no-history auf 1 gesetzt wird:
+
+```
+if(rex_get('page') == 'structure') {
+  rex_extension::register('OUTPUT_FILTER', function($ep) {
+    $Subject = str_replace('data-pjax-container="#rex-js-page-main"','data-pjax-container="#rex-js-page-main" data-pjax-no-history="1"',$ep->getSubject());
+    return $Subject;
+  });
+}
+```
