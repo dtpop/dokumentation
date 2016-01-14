@@ -14,7 +14,7 @@ Das erste Template kann gerne `Default` genannt werden. Im Quelltext sollte vali
 
 In diesem Beispiel wurde eine Kategorie angelegt mit der ID 3, wir wollen an dieser Stelle alle Unterkategorien der Kategorie 3 ausgeben:
 
-![Kategorien ID](../../assets/5.0-Handbuch/templates/categories.png)
+![Kategorien ID](../../assets/templates/categories.png)
 
 ```
 <?php
