@@ -118,5 +118,6 @@
    * [Meta-Felder](best_praxis/meta/README.md)
 * [Debug](debug/README.md)
 * [Plugins entwickeln](create_plugin/README.md)
+* [Workflows](workflows/README.md)
 * [Externe Tools](vendors/README.md)
 
