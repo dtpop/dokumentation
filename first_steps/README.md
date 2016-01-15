@@ -56,4 +56,4 @@ Wie Addons funktionieren kannst du hier lesen: [Addons installieren](addons/READ
 
 Kategorien können in Redaxo als Seiten angesehen werden, da man sie beliebig tief verschachteln kann. Jede Kategorie kann mehrere Artikel besitzen, die theoretisch auch mit in die Navigation einfließen können. An diesem Punkt gibt es viele Ansätze und man sollte seine eigene Best Praxis finden.
 
-Hier gibt es eine Liste mit Workflows: [Workflows](../../5.0/advanced/workflows/index.html). 
+Hier gibt es eine Liste mit Workflows: [Workflows](../../advanced/workflows/index.html). 
