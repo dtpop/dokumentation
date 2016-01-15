@@ -28,4 +28,4 @@ Addons die Installiert werden Datenbanken und Dateien angelegt und direkt aktivi
 
 Viele Addon liefern eine Hilfe-Datei, die man mit Klick auf das Fragezeichen einsehen kann. Zusätzlich gibt es oft eine Entwickler-Seite (z.B. Github) auf der weitere Informationen zum Addon zu finden sind. Leider kann es vorkommen, dass Entwickler ihre Addons für selbsterklärend halten und keine Hilfe zur Verfügung stehen. Dass passiert z.B. dann, wenn Addons für einen einzelnen Wunsch erstellt und veröffentlicht wurden. Bitte achtet auf das Forum oder fragt den jeweiligen Entwickler um Hilfe. 
 
-> Beachtet aber, dass kein Support gewährleistet ist. Alle Addons die kostenlos Verfügbar sind, werden auch nur freiwillig Supporter! Weiteres findest du unter [Hilfe](/support/index.html).
+> Beachtet aber, dass kein Support gewährleistet ist. Alle Addons die kostenlos Verfügbar sind, werden auch nur freiwillig Supporter! Weiteres findest du unter [Hilfe](../../support/index.html).
