@@ -36,16 +36,24 @@ Sollten rot hinterlegte Meldungen erscheinen, so sind schwere Fehler aufgetreten
 
 ### Schritt 3: Template erstellen
 
-Bitte öffne nun die Templates in der Seitennavigation. Mit einem Klick auf das Plus können neue Templates erstellt werden. Was genau Templates sind und wie sie funktionieren, kannst du hier lesen: [Redaxo Templates](templates/README.md).
+Bitte öffne nun die Templates in der Seitennavigation. Mit einem Klick auf das Plus können neue Templates erstellt werden. Sie werden als eine Art Index.php der Webseite genutzt. Du lädst in ihnen alle Dateien und Komponenten wie Artikel und Navigationen. Im Grunde laden Templates alle Informationen die alle Seiten gemeinsam haben. 
+
+Wie Templates funktionieren, kannst du hier lesen: [Redaxo Templates](templates/README.md).
 
 ### Schritt 4: Module erstellen
 
-Module stellen die Schnittstelle zwischen der Datenbank und dem Benutzer dar. Im Backend werden sie als Formular ausgegeben, in welchem der Benutzer Daten und Inhalte eingeben kann - insofern das nötig ist. Im Frontend geben Module dann den Inhalt formatiert aus. Mit einem Klick auf das Plus, können Module erstellt werden. Wie genau Module funktionieren kannst du hier lesen: [Redaxo Module](modules/README.md).
+Module stellen die Schnittstelle zwischen der Datenbank und dem Benutzer dar. Im Backend werden sie als Formular ausgegeben, in welchem der Benutzer Daten und Inhalte eingeben kann - insofern das nötig ist. Im Frontend geben Module dann den Inhalt formatiert aus. Mit einem Klick auf das Plus, können Module erstellt werden.
+
+Wie genau Module funktionieren kannst du hier lesen: [Redaxo Module](modules/README.md).
 
 ### Schritt 5: Addons installieren
 
-Addons helfen den Benutzern die Funktion ihrer Webseite über den Funktionsumfang von Redaxo hinaus zu erweitern. Dabei gibt es unterschiedliche Funktionsbereiche wie SEO, Events, Less/Sass-Support, Modulsammlungen und Social Media Inhalte laden. Wie Addons funktionieren kannst du hier lesen: [Addons installieren](addons/README.md).
+Addons helfen den Benutzern die Funktion ihrer Webseite über den Funktionsumfang von Redaxo hinaus zu erweitern. Dabei gibt es unterschiedliche Funktionsbereiche wie SEO, Events, Less/Sass-Support, Modulsammlungen und Social Media Inhalte laden.
+
+Wie Addons funktionieren kannst du hier lesen: [Addons installieren](addons/README.md).
 
 ### Schritt 6: Kategorien anlegen
 
-Kategorien können in Redaxo als Seiten angesehen werden, da man sie beliebig tief verschachteln kann. Jede Kategorie kann mehrere Artikel besitzen, die theoretisch auch mit in die Navigation einfließen können. An diesem Punkt gibt es viele Ansätze und man sollte seine eigene Best Praxis finden. Hier gibt es eine Liste mit Workflows: [Workflows](http://book.redaxo.org/5.0/advanced/workflows/index.html). 
+Kategorien können in Redaxo als Seiten angesehen werden, da man sie beliebig tief verschachteln kann. Jede Kategorie kann mehrere Artikel besitzen, die theoretisch auch mit in die Navigation einfließen können. An diesem Punkt gibt es viele Ansätze und man sollte seine eigene Best Praxis finden.
+
+Hier gibt es eine Liste mit Workflows: [Workflows](/5.0/advanced/workflows/index.html). 

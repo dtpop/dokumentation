@@ -12,5 +12,5 @@
    * [Module / Slices](first_steps/modules/README.md)
    * [Addons](first_steps/addons/README.md)
    * [Standardfunktionen](first_steps/core/README.md)
-* [Workflows (Extern)](http://book.redaxo.org/5.0/advanced/workflows/index.html)
+* [Workflows (Extern)](/5.0/advanced/workflows/index.html)
 * [Hilfe, Support und FAQ](support/README.md)
