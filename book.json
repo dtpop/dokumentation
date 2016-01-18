@@ -22,9 +22,7 @@
             "gitbookConfigURL": "https://raw.githubusercontent.com/redaxo/dokumentation/5.0-Handbuch/book.json",
             "options": [
                 { "value": "http://book.redaxo.org/5.0/manual/", "text": "5.0 Handbuch", "selected": true },
-                { "value": "http://book.redaxo.org/5.0/advanced/", "text": "5.0 Erweitern" },
-                { "value": "http://book.redaxo.org/4.6/manual/", "text": "4.6 Handbuch"},
-                { "value": "http://book.redaxo.org/4.6/advanced/", "text": "4.6 Erweitern"}
+                { "value": "http://book.redaxo.org/5.0/advanced/", "text": "5.0 Erweitern" }
             ]
         }
     }
