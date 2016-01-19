@@ -13,6 +13,7 @@
    * [PJAX](create_addon/pjax/README.md)
    * [Sprachen](create_addon/languages/README.md)
    * [Seiten](create_addon/pages/README.md)
+   * [Formulare](create_addon/forms/README.md)
    * [Benutzer und Rollen](create_addon/user_roles/README.md)
    * [Plugins](create_addon/plugins/README.md)
    * [Assets](create_addon/assets/README.md)
