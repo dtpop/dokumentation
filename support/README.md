@@ -2,6 +2,7 @@
 
 Redaxo ist gut verbreitet im deutschen Sprachraum. Falls Du Fragen zum System hast, zu einem Addon oder zur Handhabung, kannst Du an verschiedenen Stellen Hilfe anfordern.
 
+
 ## Forum
 
 Das Forum findest Du unter http://www.redaxo.org/de/forum. 
