@@ -75,3 +75,5 @@ Auch wichtig ist, dass Daten nach dem Speichern nicht zwangsläufig durch SQL er
 		<td valign="top">Liefert die Informationen die mit REX_LINKLIST[1-10] abgespeichert wurde.</td>
 	</tr>
 </table>
+
+Weitere [REX_VARS](../create_addon/rex_vars/README.md).
