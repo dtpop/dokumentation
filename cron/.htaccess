@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Bitte melden Sie sich an"
+AuthUserFile /kunden/421935_79771/webseiten/doku.redaxo/cron/.htpasswd
+require valid-user 
