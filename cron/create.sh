@@ -10,7 +10,7 @@ rm "./../$BOOK_TYPE" -f -r
 
 HOST="redaxo.org"
 USER="107405-10-sascha"
-PASSWD="REX6tfc7zgv"
+PASSWD=""
 FILE="./../$BOOK_VERSION-$BOOK_TYPE.zip"
 
 
