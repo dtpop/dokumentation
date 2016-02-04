@@ -18,7 +18,7 @@ Bei einer “blanko”-Installation von REDAXO ist die Liste der Module leer. Da
 
 ## Speichern & Lesen
 
-In einem Modul kann man nicht direkt auf die Datenbank-Inhalte zugreifen, die Inhalte werden über sogenannte [REX_VARS](../rex_vars/README.md) zugänglich.
+In einem Modul kann man nicht direkt auf die Datenbank-Inhalte zugreifen, die Inhalte werden über sogenannte [REX_VARS](../create_addon/rex_vars/README.md) zugänglich.
 
 ### Speichern
 
@@ -75,3 +75,5 @@ Auch wichtig ist, dass Daten nach dem Speichern nicht zwangsläufig durch SQL er
 		<td valign="top">Liefert die Informationen die mit REX_LINKLIST[1-10] abgespeichert wurde.</td>
 	</tr>
 </table>
+
+Weitere [REX_VARS](../create_addon/rex_vars/README.md).
