@@ -26,7 +26,7 @@ In den Modlen gibt es zwei Funktionen die es oft zu unterscheiden gilt: Hinzufü
 
 Auch wichtig ist, dass Daten nach dem Speichern nicht zwangsläufig durch SQL erreichbar sind. Ggf. muss an dieser Stelle mit den `POST`-Daten gearbeitet werden.
 
-### Auslesen
+### Auslesen 
 
 <table width="100%">
 	<tr>
